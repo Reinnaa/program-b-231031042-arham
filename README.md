@@ -1,5 +1,6 @@
 <h1>Pengantar pemrograming</h1>
 <div> Muhammad Arham Arsyad (231031042) </div>
+<div> Sistem Informasi B </div>
 
 * Praktikum 1 : Pengenalan variabel `praktikum-b1.py`
 * Praktikum 2 : Tipe data dan input `praktikum-b2.py`
