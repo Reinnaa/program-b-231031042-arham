@@ -8,4 +8,5 @@
 * Praktikum 4 : Rangkaian karakter 2 (string) `praktikum-b4.py`
 * Praktikum 5 : List dan tuple 1 `praktikum-b5.py`
 * Praktikum 6 : List dan tuple 2 `praktikum-b6.py`
+* Praktikum 7 : perulangan `praktikum-b7.py`
 
