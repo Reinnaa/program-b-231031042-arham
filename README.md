@@ -12,5 +12,7 @@
 * Praktikum 8 : Perulangan 2 `praktikum-b8.py`
 * Praktikum 9 : Dictionaries `231031042-arham-tugas-dict9.py`
 * Praktikum 10 : Fungsi `praktikum-b10`
-* Latihan 1 : if dan else `231031042-latihan-1.py`
-
+* Latihan 1 : if dan else `231031042-latihan1.py`
+* Latihan 2 : if dan else `231031042-latihan2.py`
+* Latihan 3 : if dan else `231031042-latihan3.py`
+* Latihan 4 : if dan else `231031042-latihan4.py`
