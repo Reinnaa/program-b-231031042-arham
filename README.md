@@ -21,4 +21,5 @@
 * Tugas 2 : Penjumlahan waktu `231031042-arham-tugas21-b.py`
 * Tugas 3 : Menghitung selisih waktu `231031042-arham-tugas1-22-b.py`
 * Tugas 4 : Method String `tugas4.py`
-* Rangkuman : Try Except `231031042-rangkuman12-b.py`
+* Rangkuman : Text Try Except `231031042-rangkuman12-b.py`
+* UTS : Penjualan barang `231031042-middle-SIB.py` 
