@@ -17,5 +17,5 @@
 * Latihan 2 : if dan else `231031042-latihan2.py`
 * Latihan 3 : if dan else `231031042-latihan3.py`
 * Latihan 4 : if dan else `231031042-latihan4.py`
-* Tugas 1 :  `231031042-arham-tugas1-10-b.py`
+* Tugas 1 : Cek angka ganjil atau genap`231031042-arham-tugas1-10-b.py`
 * Tugas 2 : 
