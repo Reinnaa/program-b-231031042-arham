@@ -1,8 +1,8 @@
 bio_data = {"nama" : "Muhammad Arham Arsyad",
             "kelas" : "SI23-B",
             "nim" : 231031042,
-            "asal" : "Maros",
-            "tanggal" : "17-Juli-2005",
+            "asal" : "Makassar",
+            "tanggal" : "31-Januari-2300",
             }
 print("Nama Lengkap   :",bio_data["nama"])
 print("Kelas          :",bio_data["kelas"])
