@@ -10,7 +10,7 @@
 * Praktikum 6 : List dan tuple 2 `praktikum-b6.py`
 * Praktikum 7 : Perulangan 1 `praktikum-b7.py`
 * Praktikum 8 : Perulangan 2 `praktikum-b8.py`
-* Praktikum 9 : Dictionaries `231031042-arham-tugas-dict9.py`
+* Praktikum 9 : Perulangan 3 `231031042-arham-tugas-b9.py`
 * Praktikum 10 : Fungsi `praktikum-b10`
 * Praktikum 11 : Fibonacci `231031042-arham-praktikum-b11.py`
 * Latihan 1 : if dan else `231031042-latihan1.py`
@@ -21,5 +21,6 @@
 * Tugas 2 : Penjumlahan waktu `231031042-arham-tugas21-b.py`
 * Tugas 3 : Menghitung selisih waktu `231031042-arham-tugas1-22-b.py`
 * Tugas 4 : Method String `tugas4.py`
+* Tugas 5 : Dictionaries `231031042-arham-tugas-dict-9.py`
 * Rangkuman : Text Try Except `231031042-rangkuman12-b.py`
 * UTS : Penjualan barang `231031042-middle-SIB.py` 
