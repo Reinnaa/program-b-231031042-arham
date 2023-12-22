@@ -10,7 +10,7 @@
 * Praktikum 6 : List dan tuple 2 `praktikum-b6.py`
 * Praktikum 7 : Perulangan 1 `praktikum-b7.py`
 * Praktikum 8 : Perulangan 2 `praktikum-b8.py`
-* Praktikum 9 : Perulangan 3 `231031042-arham-tugas-b9.py`
+* Praktikum 9 : Perulangan 3 `231031042-arham-praktikum-b9.py`
 * Praktikum 10 : Fungsi `praktikum-b10`
 * Praktikum 11 : Fibonacci `231031042-arham-praktikum-b11.py`
 * Latihan 1 : if dan else `231031042-latihan1.py`
