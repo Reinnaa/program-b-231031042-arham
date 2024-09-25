@@ -1,4 +1,4 @@
-<h1>Pengantar pemrograming</h1>
+<h1>Pengantar pemrograming(Python)</h1>
 <div> Muhammad Arham Arsyad (231031042) </div>
 <div> Sistem Informasi B </div>
 
